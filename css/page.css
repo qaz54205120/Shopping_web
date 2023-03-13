@@ -1,0 +1,15 @@
+body {
+	position: relative;
+	min-height: 100%;
+	color: #555555;
+	background-color: #FFFFFF;
+	margin: 0;
+	padding-bottom: 100px; /* Same height as footer */
+}
+* {
+	box-sizing: border-box;
+	font-family: -apple-system, BlinkMacSystemFont, "segoe ui", roboto, oxygen, ubuntu, cantarell, "fira sans", "droid sans", "helvetica neue", Arial, sans-serif;
+	font-size: 20px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
